@@ -1,10 +1,10 @@
 {
-    "packageUrl": "https://covid2019.vip/m/",
+    "packageUrl": "https://3rdplay.com/m/",
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "https://covid2019.vip/m/version.manifest",
+    "remoteVersionUrl": "https://3rdplay.com/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "https://covid2019.vip/m/project.manifest"
+    "remoteManifestUrl": "https://3rdplay.com/m/project.manifest"
 }
