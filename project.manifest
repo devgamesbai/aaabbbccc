@@ -4,7 +4,7 @@
     "assets": {
     },
     "remoteVersionUrl": "https://3rdplay.com/m/version.manifest",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "engineVersion": "3.17",
     "remoteManifestUrl": "https://3rdplay.com/m/project.manifest"
 }
